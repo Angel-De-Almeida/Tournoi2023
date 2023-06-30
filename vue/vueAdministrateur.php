@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../styles/menu.css">
     <link rel="stylesheet" href="../styles/formulaire.css">
-    <title>Tournois</title>
+    <title>Tournoisa</title>
 </head>
     <body>
         <?php include_once('vueMenu.php') ?>
